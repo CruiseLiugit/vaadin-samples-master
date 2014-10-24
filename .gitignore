@@ -1,0 +1,10 @@
+/.idea/libraries
+/.idea/workspace.xml
+/parent/target
+/spring-security/target
+/apache-shiro/target
+/spring-integration/target
+/spring-session/target
+
+/original/target
+/spring-boot/target
